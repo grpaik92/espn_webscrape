@@ -4,6 +4,10 @@ ESPN MLB data scraping and analysis tool in python
 # Overview
 `espn_webscrape` is a Python project that scrapes 2023 Team Schedule Data up to 09/29/2023. The project scrapes ESPN data so you don't have to. It retrieves all schedule data from each MLB team as well as additional data such as Run Differentials, Win/Loss Streak, and Team Logo data. This package loops through each team data and creates a temporary URL for you to access the data in downloadable `.csv` format to use for further data analysis in data visualization tools such as Tableau. 
 
+To view an example of data visualizations: 
+
+`https://public.tableau.com/app/profile/gregory.paik/viz/ESPNwebscrape/Dashboard1?publish=yes`
+
 (Some data may not be available with Tableau Public and requires the Desktop (paid-for) versions)
 
 # Installation
