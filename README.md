@@ -8,7 +8,7 @@ To view an example of data visualizations:
 
 `https://public.tableau.com/app/profile/gregory.paik/viz/ESPNwebscrape/Dashboard1?publish=yes`
 
-(Some data may not be available with Tableau Public and requires the Desktop (paid-for) versions)
+*Some data may not be available with Tableau Public and requires the Desktop (paid-for) versions*
 
 # Installation
 espn_webscrape can be installed and start project via repo: 
